@@ -1,5 +1,7 @@
 # hm-katalog
 
+NB! Flyttet til [https://github.com/navikt/hotlibs](https://github.com/navikt/hotlibs).
+
 ## Publisering
 
 Publisering av hm-katalog gjøres manuelt pt.
